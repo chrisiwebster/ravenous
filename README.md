@@ -1,1 +1,1 @@
-##Codecademy React project
+Codecademy React project
